@@ -23,7 +23,7 @@ Before running this project, ensure you have:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/BMI-Calculator.git
+   git clone https://github.com/Aryannnthakurrr/BMI-Calculator.git
    ```
 2. Navigate to the project directory:
    ```sh
